@@ -2,7 +2,7 @@ AI Insights
 
 Welcome to AI Insights – a repository dedicated to bringing you the latest and most groundbreaking developments in the world of Artificial Intelligence. Here, you'll find up-to-date content, news, and insights on AI technologies, innovations, and trends.
 
-![AI Demo GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExam10c3RsOWhrMHl5azdtOWk5ZWRveGtrOXdhYWI5aDRzeXNiM3EycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ab0RHn1J7TYhytPkjl/giphy.gif)
+![AI Demo GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJkaDl5MzV2OG9lYWxobGcycjd4dWJ6Njhod3cxZWx5bTVpODQ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NhDPeAo02shHAqzijz/giphy.gif)
 
 🚀 What We Do
 
@@ -27,3 +27,5 @@ We’ll be continuously updating this repository with new insights, research, an
 🌱 Contributing
 
 Feel free to contribute! If you have any interesting articles, news, or AI-related resources to share, you can create a pull request. We welcome collaboration and discussion on AI topics.
+
+![AI Demo GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExam10c3RsOWhrMHl5azdtOWk5ZWRveGtrOXdhYWI5aDRzeXNiM3EycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ab0RHn1J7TYhytPkjl/giphy.gif)
