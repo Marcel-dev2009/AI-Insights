@@ -4,4 +4,4 @@ Graphical Representation of each of them and
 Industrial Uses.
 Stay Tune as We discus the latest technologies to enhance global living and human experience 
 
- ![Demo GIF](https://github.com/Marcel-dev2009/AI-Insights/blob/main/Repo-Video.gif)
+ ![Demo GIF](https://github.com/Marcel-dev2009/AI-Insights/raw/main/giphy.mp4)
