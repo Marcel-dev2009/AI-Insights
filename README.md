@@ -2,7 +2,7 @@ AI Insights
 
 Welcome to AI Insights – a repository dedicated to bringing you the latest and most groundbreaking developments in the world of Artificial Intelligence. Here, you'll find up-to-date content, news, and insights on AI technologies, innovations, and trends.
 
- ![Demo](https://github.com/Marcel-dev2009/AI-Insights/raw/main/giphy.mp4)
+![AI Demo GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExam10c3RsOWhrMHl5azdtOWk5ZWRveGtrOXdhYWI5aDRzeXNiM3EycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ab0RHn1J7TYhytPkjl/giphy.gif)
 
 🚀 What We Do
 
